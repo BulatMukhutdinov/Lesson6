@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Lesson7"
+rootProject.name = "TipTime"
 include(":app")

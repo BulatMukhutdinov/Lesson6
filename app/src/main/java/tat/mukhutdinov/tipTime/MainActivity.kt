@@ -1,4 +1,4 @@
-package tat.mukhutdinov.lesson7
+package tat.mukhutdinov.tipTime
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -21,7 +21,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import tat.mukhutdinov.lesson7.ui.theme.TipTimeTheme
+import tat.mukhutdinov.tipTime.ui.theme.TipTimeTheme
 import java.text.NumberFormat
 
 class MainActivity : ComponentActivity() {

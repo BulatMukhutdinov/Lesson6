@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "tat.mukhutdinov.lesson7"
+    namespace = "tat.mukhutdinov.tipTime"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "tat.mukhutdinov.lesson7"
+        applicationId = "tat.mukhutdinov.tipTime"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
